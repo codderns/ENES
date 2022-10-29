@@ -1,0 +1,1 @@
+# bu dosyanın amacı projenin bir python modülü olduğunu göstermek içindir. içine karışılmaz.

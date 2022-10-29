@@ -1,0 +1,1 @@
+#bu __init__py dosyasının varlığı article klasörümüzün/app'mizin bir python modülü olduğuna işaret eder varlığı.
